@@ -1,0 +1,2 @@
+man requires an argument
+please enter the name of the command you would like help with
